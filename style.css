@@ -1,3 +1,23 @@
-hr{
-    border: 10px solid black;
+div{
+    width: 1920px;
+    height: 20px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+a{
+    padding: 10px;
+    margin: 10px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: dimgray;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: darkgrey;
+}
+p{
+    margin: 10px;
 }
