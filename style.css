@@ -8,7 +8,7 @@ div{
 a{
     padding: 10px;
     margin: 10px;
-    font-size: 24px;
+    font-size: 32px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     color: dimgray;
@@ -20,4 +20,16 @@ a:hover{
 }
 p{
     margin: 10px;
+}
+h1{
+    font-family: 'league spartan';
+    font-size: 160px;
+    text-align: center;
+    margin-top:175px;
+    margin-left: 50px;
+
+}
+#foo{
+    color: bisque;
+    border-radius: 50px;
 }
